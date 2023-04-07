@@ -28,7 +28,7 @@ This repository contains Python implementations of the linear regression algorit
 5. Alternatively, you can perform k-fold cross-validation to evaluate the performance of the model:
     mse_scores, r2_scores = cross_validation(X, y, k=5)
 
-## ependencies
+## dependencies
 The code in this repository does not depend on any external libraries, except for numpy which is used for matrix and array operations.
     import numpy as np
 
